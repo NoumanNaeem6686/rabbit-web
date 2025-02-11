@@ -1,0 +1,28 @@
+.div-block {
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.footer-space {
+    color: #d6d6d6;
+}
+
+.div-block a {
+    color: #000;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.footer-para {
+
+    font-size: 14px;
+    color: #5c5c5c;
+    font-family: "Montserrat", sans-serif !important;
+}

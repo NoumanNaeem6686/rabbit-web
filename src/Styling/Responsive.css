@@ -1,0 +1,52 @@
+@media (max-width: 980px) {
+
+    .logo {
+        width: 140px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 50px;
+    }
+
+    .img-pc-bg {
+        display: none;
+    }
+
+    .home-content {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .home-content h1 {
+        font-size: 30px;
+    }
+
+    .media {
+        font-size: 20px;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .play-icons-div {
+        justify-content: center;
+    }
+
+    .download-btn img {
+        margin: 40px auto 40px;
+        width: 160px;
+        height: 48px;
+    }
+
+    .social-media-pic {
+        margin-bottom: 30px;
+    }
+
+    .div-block a {
+        font-size: 12px;
+    }
+
+    .footer-para {
+        font-size: 11px;
+    }
+
+}
