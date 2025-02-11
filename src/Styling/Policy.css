@@ -1,0 +1,36 @@
+.policy-container {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.policy-content {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.policy-content section {
+  margin-bottom: 2rem;
+}
+
+.policy-content h1 {
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.policy-content h2 {
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+.policy-content p,
+.policy-content ul {
+  color: #666;
+  line-height: 1.6;
+}
+
+.policy-content ul {
+  margin-left: 2rem;
+}
