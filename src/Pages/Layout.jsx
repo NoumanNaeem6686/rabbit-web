@@ -1,7 +1,6 @@
-import React from 'react'
-import Home from '../Component/Home'
-import Footer from '../Component/Footer'
-import "../Styling/Responsive.css"
+import Home from "../Component/Home";
+import Footer from "../Component/Footer";
+import "../Styling/Responsive.css";
 
 const Layout = () => {
   return (
@@ -9,7 +8,7 @@ const Layout = () => {
       <Home />
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
