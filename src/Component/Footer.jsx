@@ -11,7 +11,7 @@ const Footer = () => {
           <NavLink to="/terms-of-service">Terms of Service</NavLink>
         </div>
         <span className="footer-para m-0 text-center">
-          © Copyright 2025 Cloudview Technology. All rights reserved.
+          © Copyright 2025 Rabbit Technology. All rights reserved.
         </span>
       </div>
     </footer>
