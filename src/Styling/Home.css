@@ -1,60 +1,59 @@
 .hero-section {
-    overflow-x: hidden !important;
-    min-height: 100vh;
+  overflow-x: hidden !important;
+  min-height: 90vh;
 }
 
 .banner-bg {
-    overflow-x: hidden !important;
+  overflow-x: hidden !important;
 }
 
 .img-pc-bg {
-    display: block;
-    width: 75%;
-    height: 750px;
-    transform: rotate(40deg);
-    background: linear-gradient(135deg, #3e82ff 0%, #64e3e8 100%);
-    border-radius: 100px;
-    opacity: 0.8;
-    position: absolute;
-    z-index: -1;
-    top: -22.90821rem;
-    right: 0;
-    overflow-x: hidden !important;
+  display: block;
+  width: 75%;
+  height: 750px;
+  transform: rotate(40deg);
+  background: linear-gradient(135deg, #3e82ff 0%, #64e3e8 100%);
+  border-radius: 100px;
+  opacity: 0.8;
+  position: absolute;
+  z-index: -1;
+  top: -22.90821rem;
+  right: 0;
+  overflow-x: hidden !important;
 }
 
 .home-content {
-    padding-top: 66px;
+  padding-top: 66px;
 }
 
 .home-content h1 {
-    font-size: 52px;
-    font-weight: bold;
-    color: #212121;
-    margin-bottom: 20px;
+  font-size: 52px;
+  font-weight: bold;
+  color: #212121;
+  margin-bottom: 20px;
 }
 
 .home-content .imgs {
-    width: 36px;
-    height: 36px;
+  width: 36px;
+  height: 36px;
 }
 
 .media {
-    font-size: 24px;
-    padding-left: 8px;
-    padding-right: 44px;
+  font-size: 24px;
+  padding-left: 8px;
+  padding-right: 44px;
 }
 
 .download-btn img {
-    margin: 58px 0 68px;
-    width: 250px;
+  margin: 58px 0 68px;
+  width: 250px;
 }
 
-
 .social-media-pic img {
-    object-fit: cover;
+  object-fit: cover;
 }
 
 .logo {
-    padding-top: 70px;
-    height: auto;    
+  padding-top: 70px;
+  height: auto;
 }
