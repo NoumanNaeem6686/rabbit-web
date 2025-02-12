@@ -1,4 +1,3 @@
-import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./Pages/Layout";
 import PrivacyPolicy from "./Pages/PrivacyPolicy";
